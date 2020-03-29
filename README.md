@@ -16,3 +16,7 @@ How to Play
 7) Have Fun! 
 ![Image of Scribble](https://github.com/timonpumba/-CodeNames/blob/master/steps/PlayWithFriends.PNG)
 8) To play a new game refresh the page.
+
+
+Thank you to eligrey for https://github.com/eligrey/FileSaver.js
+Thank you to https://stuk.github.io/jszip/
