@@ -6,13 +6,13 @@ How to Play
 1) Download the whole repo.
 2) Get your friends on video conference 
 3) Click on codeNames.html
-![Image of New Game](https://github.com/timonpumba/-CodeNames/steps/NewGameLoaded.PNG)
+![Image of New Game](https://github.com/timonpumba/-CodeNames/blob/master/steps/NewGameLoaded.PNG)
 4) Click on either "Codenames by Words" or "Codenames by Pictures"
-![Image of Spykey](https://github.com/timonpumba/-CodeNames/steps/Spymasterkey.PNG)
+![Image of Spykey](https://github.com/timonpumba/-CodeNames/blob/master/steps/Spymasterkey.PNG)
 5) Save the spymasterkey.zip file and email it to the leaders of the game
-![Image of key](https://github.com/timonpumba/-CodeNames/steps/ActualKey.PNG)
+![Image of key](https://github.com/timonpumba/-CodeNames/blob/master/steps/ActualKey.PNG)
 6) Play the game! To check which team does the tile belong to, click on it!
-![Image of Gameinprogress](https://github.com/timonpumba/-CodeNames/steps/GameInProgress.PNG)
+![Image of Gameinprogress](https://github.com/timonpumba/-CodeNames/blob/master/steps/GameInProgress.PNG)
 7) Have Fun! 
-![Image of Scribble](https://github.com/timonpumba/-CodeNames/steps/PlayWithFriends.PNG)
+![Image of Scribble](https://github.com/timonpumba/-CodeNames/blob/master/steps/PlayWithFriends.PNG)
 8) To play a new game refresh the page.
